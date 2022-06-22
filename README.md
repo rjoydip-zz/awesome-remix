@@ -1,3 +1,5 @@
+<!--lint disable awesome-git-repo-age awesome-heading awesome-badge -->
+
 # awesome-remix [![awesome][awesome-badge]][awesome]
 
 > A curated list of awesome [**remix**][remix] resources.
@@ -13,10 +15,10 @@
 
 ## Official
 
-* [Remix Docs](https://remix.run/docs/en/v1) - Docs V1
-* [Remix Stacks](https://remix.run/docs/en/v1/pages/stacks) - Stacks
-* [Jokes App Tutorial](https://remix.run/docs/en/v1/tutorials/jokes#jokes-app-tutorial) - Jokes App
-* [Developer Blog](https://remix.run/docs/en/v1/tutorials/blog) - Blog
+* [Remix Docs](https://remix.run/docs/en/v1) - Docs V1.
+* [Remix Stacks](https://remix.run/docs/en/v1/pages/stacks) - Stacks.
+* [Jokes App Tutorial](https://remix.run/docs/en/v1/tutorials/jokes#jokes-app-tutorial) - Jokes App.
+* [Developer Blog](https://remix.run/docs/en/v1/tutorials/blog) - Blog.
 
 ## Starter Project
 
@@ -36,9 +38,9 @@
 * [Chop Suey Stack](https://github.com/jkcorrea/remix-chop-suey-stack)
 * [DnB Stack](https://github.com/robipop22/dnb-stack)
 * [Eurodance Stack](https://github.com/VulcanJS/eurodance-stack)
-* [Starter Vercel](https://github.com/remix-run/starter-vercel) - Archived
-* [Starter Architect](https://github.com/remix-run/starter-architect) - Archived
-* [Starter Express](https://github.com/remix-run/starter-express) - Archived
+* [Starter Vercel](https://github.com/remix-run/starter-vercel) - Archived.
+* [Starter Architect](https://github.com/remix-run/starter-architect) - Archived.
+* [Starter Express](https://github.com/remix-run/starter-express) - Archived.
 
 ## Examples
 
@@ -82,8 +84,8 @@
 * [Redis Upstash Session](https://github.com/remix-run/remix/tree/main/examples/redis-upstash-session)
 * [Remix Auth Auth0](https://github.com/remix-run/remix/tree/main/examples/remix-auth-auth0)
 * [Remix Auth From](https://github.com/remix-run/remix/tree/main/examples/remix-auth-form)
-* [Remix Auth Github](https://github.com/remix-run/remix/tree/main/examples/remix-auth-github)
-* [Remix Auth Supabase Github](https://github.com/remix-run/remix/tree/main/examples/remix-auth-supabase-github)
+* [Remix Auth GitHub](https://github.com/remix-run/remix/tree/main/examples/remix-auth-github)
+* [Remix Auth Supabase GitHub](https://github.com/remix-run/remix/tree/main/examples/remix-auth-supabase-github)
 * [Remix Auth Supabase](https://github.com/remix-run/remix/tree/main/examples/remix-auth-supabase)
 * [Route Modal](https://github.com/remix-run/remix/tree/main/examples/route-modal)
 * [Route Gen](https://github.com/remix-run/remix/tree/main/examples/route-gen)
@@ -110,8 +112,8 @@
 
 ## Conference
 
-* [Remix Conf 2022](https://remix.run/conf/2022) - Conference 2022
-* [Remix Conf 2023](https://remix.run/conf/2023) - Conference 2023
+* [Remix Conf 2022](https://remix.run/conf/2022) - Conference 2022.
+* [Remix Conf 2023](https://remix.run/conf/2023) - Conference 2023.
 
 <!-- Definitions. -->
 
